@@ -1,4 +1,5 @@
-'''William Martell P3: Linked List Recursive'''
+'''William Martell 
+CS Project: Linked List Recursive'''
 
 class Course():
     '''Creates a course with default empty values and has callable functions to receive the 
