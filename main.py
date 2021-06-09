@@ -1,4 +1,5 @@
-'''William Martell P3: Linked List Recursive'''
+'''William Martell 
+CS Project: Linked List Recursive'''
 
 from courselist import CourseList
 from course import Course
